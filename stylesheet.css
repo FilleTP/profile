@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(243, 242, 242);
+}
+
+a {
+  text-decoration: none;
+}
+
+.card-white {
+  width: 500px;
+  background-color: white;
+  margin: 24px auto;
+  text-align: center;
+  padding: 24px;
+  box-shadow: 0 5px 15px rgba(200, 200, 200, 0.1);
+}
+
+.card-white img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+
+}
+
+
+.btn-blue {
+  background-color: rgb(16, 167, 167);
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+}
+
+.btn-blue:hover {
+  background-color: rgb(7, 89, 89);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+li {
+  display: inline-block;
+  margin: 8px 24px;
+  font-size: 24px;
+
+}
